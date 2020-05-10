@@ -1,0 +1,8 @@
+//Pseudocode menentukan nilai tertinggi antara nilai X dan Y
+Start
+Input Nilai X dan Y
+ if (X < Y)
+Print "bilangan X lebih besar dari nilai Y"
+else   
+Print "bilangan Y lebih besar dari nilai X"
+end

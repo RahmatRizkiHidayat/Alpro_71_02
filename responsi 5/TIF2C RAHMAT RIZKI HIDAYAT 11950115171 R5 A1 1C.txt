@@ -1,0 +1,8 @@
+// Algoritma Menentukan bilangan pembagi terkecil selain angka 1 dan 2
+1. Siapkan nilai
+2. Siapkan nilai pembagi 
+3. Masukan nilai
+4. Proses pembagian dimulai dari 2 (loop)
+5. Jika nilai=0 simpan ke variabel pembagi terkecil
+6. Jika nilai tidak 0 maka variabel menambah 1
+7. Output akan ditampilkan 

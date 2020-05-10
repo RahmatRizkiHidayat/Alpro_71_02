@@ -1,0 +1,7 @@
+// Algoritma menentukan nilai tertinggi antara variabel x dan  y
+1. Siapkan nilai variabel nilai X dan Y 
+2. Masukan Variabel Nilai X dan Y
+3. Jika Nilai Y < X maka ket nilai Y lebih besar dari nilai X
+4. Jika Nilai X < Y maka ket nilai X lebih besar dari nilai y
+5. Jika selesai keterangan akan ditampilkan.
+

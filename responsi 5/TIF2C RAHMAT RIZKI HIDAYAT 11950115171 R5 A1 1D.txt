@@ -1,0 +1,7 @@
+//Algoritma Menentukan sebuah angka adalah bilangan prima atau tidak
+1. Siapkan nilai variabel x
+2. Masukan nilai x
+3. Kemudian kita bisa mendefinisikan jika 2 adalah bilangan prima.
+4. Kemudian kita akan melakukan sisa pembagian  x dengan bilangan 2 sampai x-1. Jadi nilai x akan dibagi oleh 2, 3, dan 4.
+5. Apabila hasil sisa sisa pembagian x dengan setiap bilangan x-1 adalah sama dengan 0, maka bilangan tersebut bukanlah bilangan prima.
+6. Jika tidak, maka hasilnya adalah bilangan tersebut adalah bilangan prima

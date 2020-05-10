@@ -1,0 +1,11 @@
+// Algoritma Menentukan nilai tertinggi antara nilai variabel x, y dan z
+1. Siapkan nilai variabel X, Y dan Z
+2. Masukan Nilai X, Y dan Z
+3. Nilai X < Y maka ket nilai X lebih besar dari nilai Y
+4. Nilai X < Z maka ket nilai X lebih besar dali nilai Z
+5. Nilai Y < X maka ket nilai Y lebih besar dari nilai X
+6. Nilai Y < Z maka ket nilai Y lebih besar dari nilai Z
+7. Nilai Z < X maka ket nilai Z lebih besar dari nilai X
+8. Nilai Z < Y maka ket nilai Z lebih besar dari nilai Y
+9. Jika selesai keterangan(ket) akan ditampilkan.
+

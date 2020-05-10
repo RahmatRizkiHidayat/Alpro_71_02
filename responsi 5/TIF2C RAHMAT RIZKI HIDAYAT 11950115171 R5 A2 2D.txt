@@ -1,0 +1,8 @@
+// pseudocoode menentukan bilangan prima atau tidak 
+Start
+Input nilai 
+Definisikan angka 2=Bilangan prima
+Sisa pembagian nilai x dengan angka 2 sampai x-1
+Jika sisa pembagian x=0 maka nilai tersebut bukan bilangan prima
+Jika hasil bukan x tidak 0 maka nilai tersebut bilangan prima
+End

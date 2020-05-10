@@ -1,0 +1,9 @@
+// Pseudocode Menentukan bilang pembagi terkecil selain angka 1 dan 2
+Start
+input nilai
+input pembagi <- 3
+while if nilai % pembagi == 0 then
+print " Nilai pembagi tertkecil adalah "+nilai+" "
+endif 
+endwhile
+end

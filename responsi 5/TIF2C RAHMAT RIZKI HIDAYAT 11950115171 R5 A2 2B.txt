@@ -1,0 +1,18 @@
+// Pseudocode menentukan bilangan tertinggi antara nilai x, y dan z
+Start
+Input Nilai X dan Y
+if X < Y 
+Print "Nilai X lebih besar dari nilai Y"
+else
+X < Z 
+Print "Nilai X lebih besar dali nilai Z"
+Y < X 
+Priint "Nilai Y lebih besar dari nilai X"
+Y < Z 
+Print "Nilai Y lebih besar dari nilai Z"
+Z < X
+Print "Nilai Z lebih besar dari nilai X"
+Z < Y
+Print "Nilai Z lebih besar dari nilai Y"
+end if
+end
